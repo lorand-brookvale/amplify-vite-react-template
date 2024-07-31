@@ -24,7 +24,7 @@ function DefaultStorageManagerExample()  {
         <StorageManager        
         acceptedFileTypes={['*/*']}
         path="files/"
-        maxFileCount={10}
+        maxFileCount={5}
         isResumable
         />
     </ThemeProvider>
